@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Biuro_Podrozy.forms.formBookTrip" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAKAAIAEYWgQBBAACACBAAgCAAAgAAAgAAJAAACABAA=</HashCode>
+      <FileName>forms\formBookTrip.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biuro_Podrozy.forms.formEditTripDetails" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAABUAQCgQAJEAAAGQAASGAAQ6AIQAACggAADAAIA=</HashCode>
+      <FileName>forms\formEditTripDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biuro_Podrozy.forms.formEmployeeVersion" Collapsed="true">
+    <Position X="4.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AKAAAIAAISAQAIAAAACMAAQCEACEAAAACAAAAACAAIA=</HashCode>
+      <FileName>forms\formEmployeeVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biuro_Podrozy.forms.formLogin" Collapsed="true">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAQAEBAAACAAAACAAAACAAAAgEAAIBAIAA=</HashCode>
+      <FileName>forms\formLogin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biuro_Podrozy.forms.formTripDetails" Collapsed="true">
+    <Position X="3" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgQAABAAQCgQAJEAAIGBAgEGAAAIAAAAAAAggABIAAA=</HashCode>
+      <FileName>forms\formTripDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biuro_Podrozy.formClientVersion" Collapsed="true">
+    <Position X="6.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIIAAISAQAAAAAACIBAACAAAEAAAACEggAAAABIA=</HashCode>
+      <FileName>forms\formClientVersion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biuro_Podrozy.Connection_Class" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAQAAFAAQQAAQACAAAAAABAAAAA=</HashCode>
+      <FileName>Connection_Class.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Biuro_Podrozy.Program" Collapsed="true">
+    <Position X="4.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
